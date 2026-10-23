@@ -1,0 +1,23 @@
+{
+  "name": "trustgrid-email-templates",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "90 Production-Ready Enterprise HTML Email Templates for TrustGrid.AI across 9 Industries",
+  "main": "index.html",
+  "scripts": {
+    "send-test": "node scripts/send-test-email.js",
+    "validate": "node scripts/validate-templates.js",
+    "build:templates": "node scripts/generate-templates.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.10.0"
+  },
+  "keywords": [
+    "email-templates",
+    "enterprise-ai",
+    "trustgrid"
+  ],
+  "author": "TrustGrid.AI",
+  "license": "ISC"
+}

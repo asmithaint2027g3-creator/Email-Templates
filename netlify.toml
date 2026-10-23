@@ -1,0 +1,20 @@
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Prevent access to dotfiles and scripts if deployed directly
+[[redirects]]
+  from = "/.env*"
+  to = "/index.html"
+  status = 404
+
+[[redirects]]
+  from = "/scripts/*"
+  to = "/index.html"
+  status = 404
