@@ -1,0 +1,72 @@
+Under the hood: InfiniBand, Zero Trust, and ISA-95 compliance
+  
+
+  
+  
+  Deep systems engineering for high-throughput, ISA-95-compliant industrial edge clusters.
+
+  
+  
+    
+      
+        
+        
+        
+          
+          
+          
+            
+              
+            
+          
+
+          
+          
+            
+              
+                Hi [First Name],
+
+                Deep Systems Engineering, Not PowerPoint
+
+                To eliminate rework rates and latency spikes, our engineers deploy deep systems engineering.
+
+                
+                  
+                    
+                      
+                        NCCL/RCCL OptimizationLow-latency collective tuning across synchronized camera clusters.
+
+                      
+                    
+                    
+                      
+                        Zero-Trust MCPModel Context Protocol securing edge device telemetry and Purdue Model Level 2-3.
+
+                      
+                    
+                  
+
+                  
+                    
+                      
+                        Kernel-Level FPGA TuningHardware acceleration for real-time visual inspection with zero frame drops.
+
+                      
+                    
+                    
+                      
+                        L1-L7 PQCPost-Quantum Cryptography safeguarding operational technology (OT) audit logs.
+
+                      
+                    
+                  
+
+                
+                
+                  Speak to a Practice Lead
+                
+                Or reply directly to this email to start the conversation.
+
+                Best regards,
+[Sender Name]
+Practice Lead, Enterprise AI

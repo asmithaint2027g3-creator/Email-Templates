@@ -1,0 +1,25 @@
+Use Case: How a mid-market bank cut model deployment from 6 weeks to 4 days
+
+  A banking use case on governed agents, faster model cycles, and task accuracy.
+  
+    
+      
+        
+          
+        
+
+        Hi [First Name],
+
+From Pilot Purgatory to Production
+
+BeforeA mid-market financial institution was facing a 6-week cycle time for deploying new risk models, causing revenue leakage.
+
+AfterThe bank deployed a governed multi-agent fabric with Model Context Protocol (MCP) controls to coordinate model workflows with review and governance requirements.
+
+Cycle time fell to four days, with 70&#8211;90% task autonomy and >95% task accuracy. The approach paired faster execution with governed processes rather than removing human accountability.
+
+Verifiable Outcome70&#8211;90% task autonomy, reducing cycle time to 4 days, and achieving >95% task accuracy with zero black-box compliance risk.Read the Full Case StudyOr reply directly to this email to start the conversation.
+
+Best regards,
+[Sender Name]
+[SENDER_TITLE], TrustGrid.ai

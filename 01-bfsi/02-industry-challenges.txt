@@ -1,0 +1,23 @@
+The 150+ lost engineering hours stalling [Company Name]&#8217;s AI ROI
+
+  See how banking infrastructure bottlenecks consume engineering capacity and delay AI returns.
+  
+    
+      
+        
+          
+        
+
+        Hi [First Name],
+
+Quantifying Your Operational Leakage
+
+In BFSI, the bottleneck isn&#8217;t the AI model; it&#8217;s the infrastructure causing tail jitter and silent packet drops.
+
+These failures create a capacity bottleneck of 150+ lost engineering hours per quarter as teams diagnose unstable workloads and repeat deployments. That wasted effort keeps engineers from shipping customer value and contributes to stagnant Revenue Per Employee (RPE).
+
+Verifiable OutcomeLossless RoCEv2 fabrics and kernel-level accelerator tuning to eliminate silent packet drops.Explore Technical ArchitectureOr reply directly to this email to start the conversation.
+
+Best regards,
+[Sender Name]
+[SENDER_TITLE], TrustGrid.ai

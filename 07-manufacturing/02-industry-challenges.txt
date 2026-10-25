@@ -1,0 +1,44 @@
+The hidden compute costs stalling your production edge
+  
+
+  
+  
+  Quantifying industrial operational leakage, vision latency, and lost engineering capacity.
+
+  
+  
+    
+      
+        
+        
+        
+          
+          
+          
+            
+              
+            
+          
+
+          
+          
+            
+              
+                Hi [First Name],
+
+                Quantifying Your Operational Leakage
+
+                In Manufacturing, the bottleneck is infrastructure causing tail latency in machine vision. Legacy fabrics create 200+ lost engineering hours per quarter. This directly contributes to stagnant OEE. We engineer the resolution: lossless RoCEv2 fabrics and kernel-level tuning.
+
+                
+                  Engineered Resolution
+                  Lossless RoCEv2 fabrics to eliminate silent packet drops.
+                
+                
+                  Explore Technical Architecture
+                
+                Or reply directly to this email to start the conversation.
+
+                Best regards,
+[Sender Name]
+Principal Systems Architect, TrustGrid.ai

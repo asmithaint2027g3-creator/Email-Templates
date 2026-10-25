@@ -1,0 +1,72 @@
+Under the hood: InfiniBand, Zero Trust, and FDA 21 CFR compliance
+  
+
+  
+  
+  Deep systems engineering for high-throughput, compliant drug discovery clusters.
+
+  
+  
+    
+      
+        
+        
+        
+          
+          
+          
+            
+              
+            
+          
+
+          
+          
+            
+              
+                Hi [First Name],
+
+                Deep Systems Engineering, Not PowerPoint
+
+                To eliminate rework rates and latency spikes, our engineers deploy deep systems engineering.
+
+                
+                  
+                    
+                      
+                        NCCL/RCCL OptimizationCollective tuning for parallel molecular dynamics simulations.
+
+                      
+                    
+                    
+                      
+                        Zero-Trust MCPProprietary chemical structure and assay access perimeters.
+
+                      
+                    
+                  
+
+                  
+                    
+                      
+                        Kernel-Level FPGA TuningSub-millisecond screening throughput across billion-molecule libraries.
+
+                      
+                    
+                    
+                      
+                        L1-L7 PQCCryptographic data integrity for FDA 21 CFR Part 11 electronic records.
+
+                      
+                    
+                  
+
+                
+                
+                  Speak to a Practice Lead
+                
+                Or reply directly to this email to start the conversation.
+
+                Best regards,
+[Sender Name]
+Practice Lead, Enterprise AI

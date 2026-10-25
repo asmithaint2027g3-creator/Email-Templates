@@ -1,0 +1,27 @@
+Under the hood: RoCEv2, MCP, and NIST PQC for banking
+
+  Three engineering priorities for reducing network loss, optimizing collectives, and protecting workloads.
+  
+    
+      
+        
+          
+        
+
+        Hi [First Name],
+
+Deep Systems Engineering, Not PowerPoint
+
+To eliminate rework rates and latency spikes, our engineers deploy deep systems engineering.
+
+RoCEv2Lossless fabric engineering to reduce packet drops and tail jitter.
+NCCL/RCCLCollective optimization for Dragonfly+ topologies.
+
+MCPZero-trust identity and governed model context access.
+NIST PQCL1-L7 Post-Quantum Cryptography for banking data flows.
+
+Speak to a Practice LeadOr reply directly to this email to start the conversation.
+
+Best regards,
+[Sender Name]
+[SENDER_TITLE], TrustGrid.ai

@@ -1,0 +1,41 @@
+Re: Scaling production AI without latency drag
+  
+
+  
+  
+  Following up on your plant floor infrastructure bottlenecks and throughput yield.
+
+  
+  
+    
+      
+        
+        
+        
+          
+          
+          
+            
+              
+            
+          
+
+          
+          
+            
+              
+                Hi [First Name],
+
+                The Compounding Cost of Doing Nothing
+
+                Following up on my note regarding your infrastructure bottlenecks.
+
+                Just a brief note: by re-engineering cluster topologies, we helped a Tier-1 manufacturer achieve 12× throughput yield on mission-critical workloads without purchasing new silicon. Every week of delay compounds leakage.
+
+                See How We Did It
+
+                Or reply directly to this email to start the conversation.
+
+                Best regards,
+[Sender Name]
+Principal Systems Architect, TrustGrid.ai

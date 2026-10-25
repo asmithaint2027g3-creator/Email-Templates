@@ -1,0 +1,60 @@
+Use Case: Cutting quality control from 48 hours to 4 hours
+  
+
+  
+  
+  How governed multi-agent execution cut quality control inspection cycles.
+
+  
+  
+    
+      
+        
+        
+        
+          
+          
+          
+            
+              
+            
+          
+
+          
+          
+            
+              
+                Hi [First Name],
+
+                From Pilot Purgatory to Production
+
+                
+                  
+                    
+                      Before
+                      A leading manufacturer faced a 48-hour cycle time for quality control.
+
+                    
+                  
+
+                  
+                    
+                      After
+                      TrustGrid deployed a governed multi-agent execution fabric. Result: 70–90% task autonomy, 4-hour cycle time.
+
+                    
+                  
+
+                
+                
+                  Verifiable Outcome
+                  70–90% task autonomy, reducing cycle time to 4 hours, zero black-box risk.
+                
+                
+                  Read the Full Case Study
+                
+                Or reply directly to this email to start the conversation.
+
+                Best regards,
+[Sender Name]
+Principal Systems Architect, TrustGrid.ai

@@ -1,0 +1,57 @@
+Engineered for healthcare: Lossless fabrics & governed clinical agents
+  
+
+  
+  
+  Pre-calibrated stacks deploy low-latency fabrics and HIPAA-governed clinical agents.
+
+  
+  
+    
+      
+        
+        
+        
+          
+          
+          
+            
+              
+            
+          
+
+          
+          
+            
+              
+                Hi [First Name],
+
+                Shifting the Baseline to Patient Value
+
+                
+                  
+                    
+                      To eliminate inference bottlenecks, TrustGrid deploys two pre-calibrated stacks.
+
+                      
+                        AI Networking: 0.00% packet loss InfiniBand.
+
+                        Agentic Enterprise: Deterministic reasoning DAGs for secure clinical workflows.
+
+                      
+                    
+                    
+                      Verifiable Outcome
+                      DIRECTLY ACCELERATES time-to-care for real-time diagnostics and automated triage.
+                    
+                  
+
+                
+                
+                  View Engineering Deliverables
+                
+                Or reply directly to this email to start the conversation.
+
+                Best regards,
+[Sender Name]
+Principal Systems Architect, TrustGrid.ai

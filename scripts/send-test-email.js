@@ -1,4 +1,4 @@
-import fs from 'fs';
+﻿import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import dotenv from 'dotenv';
@@ -124,12 +124,17 @@ async function main() {
   // 2. Otherwise fallback to reliable HTTPS CDN URL so Gmail renders without breaking
   const isNetlifyConfigured = assetBaseUrl && !assetBaseUrl.includes('your-deployed-site');
 
-  // Convert logo and footer banner to inline CID attachments for 100% bulletproof rendering in Gmail
+  // Convert logo, header banner, and footer banner to inline CID attachments for 100% bulletproof rendering in Gmail
   const attachments = [
     {
       filename: 'trustgrid-logo.png',
       path: path.join(projectRoot, 'images', 'trustgrid-logo.png'),
       cid: 'trustgrid-logo'
+    },
+    {
+      filename: `${industryKey}.jpg`,
+      path: path.join(projectRoot, 'images', `${industryKey}.jpg`),
+      cid: 'industry-header-banner'
     },
     {
       filename: 'trustgrid-promo-footer.jpg',
@@ -138,9 +143,10 @@ async function main() {
     }
   ];
 
-  // Map logo and promotional footer to CID references
+  // Map logo, header banner, and promotional footer to CID references
   preparedHtml = preparedHtml.replace(/(?:src=["'])(?:[^"']*images\/trustgrid-logo\.png|https:\/\/files\.catbox\.moe\/1vp4k2\.png)["']/gi, 'src="cid:trustgrid-logo"');
   preparedHtml = preparedHtml.replace(/(?:src=["'])(?:[^"']*images\/trustgrid-promo-footer\.jpg|https:\/\/files\.catbox\.moe\/(?:4h123m|0p1swt|wtlzmt)\.jpg)["']/gi, 'src="cid:trustgrid-promo-footer"');
+  preparedHtml = preparedHtml.replace(new RegExp(`(?:src=["'])(?:[^"']*images\\/${industryKey}\\.jpg|${cdnFallback})["']`, 'gi'), 'src="cid:industry-header-banner"');
 
   if (isNetlifyConfigured) {
     preparedHtml = preparedHtml.replace(/(?:src|background|url)\(["']?(?:\/|(?:\.\.\/)+)?images\/(0?[1-9]-[^"'\)]+)["']?\)/gi, (match, fileName) => {

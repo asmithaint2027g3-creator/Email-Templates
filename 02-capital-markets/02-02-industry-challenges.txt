@@ -1,0 +1,44 @@
+The hidden compute costs stalling your quantitative edge
+  
+
+  
+  
+  Quantify backtesting delays, compute sprawl, and lost quant-engineering capacity.
+
+  
+  
+    
+      
+        
+        
+        
+          
+          
+          
+            
+              
+            
+          
+
+          
+          
+            
+              
+                Hi [First Name],
+
+                Quantifying Your Operational Leakage
+
+                In Capital Markets, the bottleneck isn’t the strategy; it’s the infrastructure causing tail latency. Legacy network fabrics and unoptimized kernel scheduling create a capacity bottleneck of 200+ lost quant-engineering hours per quarter. This directly contributes to stagnant Revenue Per Employee (RPE) in your data division due to constant rework and delayed backtesting cycles. We engineer the resolution: lossless RoCEv2 fabrics and kernel-level accelerator tuning to eliminate silent packet drops.
+
+                
+                  Engineered Resolution
+                  Lossless RoCEv2 fabrics and NCCL collective tuning.
+                
+                
+                  Explore Technical Architecture
+                
+                Or reply directly to this email to start the conversation.
+
+                Best regards,
+[Sender Name]
+Principal Systems Architect, TrustGrid.ai

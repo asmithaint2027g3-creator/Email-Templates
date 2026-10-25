@@ -1,0 +1,72 @@
+Under the hood: InfiniBand, Zero Trust, and HIPAA compliance
+  
+
+  
+  
+  Deep systems engineering for high-throughput, compliant clinical AI pipelines.
+
+  
+  
+    
+      
+        
+        
+        
+          
+          
+          
+            
+              
+            
+          
+
+          
+          
+            
+              
+                Hi [First Name],
+
+                Deep Systems Engineering, Not PowerPoint
+
+                To eliminate rework rates and latency spikes, our engineers deploy deep systems engineering.
+
+                
+                  
+                    
+                      
+                        NCCL/RCCL OptimizationCollective tuning for multimodal EHR imaging and pathology models.
+
+                      
+                    
+                    
+                      
+                        Zero-Trust MCPZero-trust context access ensuring HIPAA-compliant patient isolation.
+
+                      
+                    
+                  
+
+                  
+                    
+                      
+                        Kernel-Level FPGA TuningSub-millisecond inference acceleration for real-time surgical and ICU feeds.
+
+                      
+                    
+                    
+                      
+                        L1-L7 PQCPost-Quantum Cryptography safeguarding protected health information (PHI).
+
+                      
+                    
+                  
+
+                
+                
+                  Speak to a Practice Lead
+                
+                Or reply directly to this email to start the conversation.
+
+                Best regards,
+[Sender Name]
+Practice Lead, Enterprise AI

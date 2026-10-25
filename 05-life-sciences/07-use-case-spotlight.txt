@@ -1,0 +1,60 @@
+Use Case: Cutting molecular docking from 48 hours to 4 hours
+  
+
+  
+  
+  Case study on cutting molecular docking turnaround time with governed agentic fabrics.
+
+  
+  
+    
+      
+        
+        
+        
+          
+          
+          
+            
+              
+            
+          
+
+          
+          
+            
+              
+                Hi [First Name],
+
+                From Pilot Purgatory to Production
+
+                
+                  
+                    
+                      Before
+                      A leading pharma faced a 48-hour cycle time for molecular docking.
+
+                    
+                  
+
+                  
+                    
+                      After
+                      TrustGrid deployed a governed multi-agent execution fabric. Result: 70–90% task autonomy, 4-hour cycle time.
+
+                    
+                  
+
+                
+                
+                  Verifiable Outcome
+                  70–90% task autonomy, reducing cycle time to 4 hours, zero black-box risk.
+                
+                
+                  Read the Full Case Study
+                
+                Or reply directly to this email to start the conversation.
+
+                Best regards,
+[Sender Name]
+Principal Systems Architect, TrustGrid.ai

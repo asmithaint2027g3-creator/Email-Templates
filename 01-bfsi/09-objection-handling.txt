@@ -1,0 +1,25 @@
+"We can't risk black-box AI in regulated finance."
+
+  Explainability, governed decision workflows, and audit logs support regulated AI evaluation.
+  
+    
+      
+        
+          
+        
+
+        Hi [First Name],
+
+Trust is an Architectural System Property
+
+&#8220;We can&#8217;t risk black-box AI in regulated finance.&#8221;We know that for BFSI, evaluation criteria are weighted 40% on SOC2/NIST compliance.
+
+With strict regulatory deadlines looming, AI systems need to be explainable and governable from the start. TrustGrid uses SHAP/LIME techniques and immutable decision logging to help teams inspect model outputs and maintain evidence of decisions.
+
+Governance controls are designed into the system architecture, supporting review against applicable EU AI Act and NIST AI RMF requirements.
+
+Verifiable Outcome100% verifiable auditability and zero black-box risk for EU AI Act and NIST AI RMF compliance.Explore Trusted AI EngineeringOr reply directly to this email to start the conversation.
+
+Best regards,
+[Sender Name]
+[SENDER_TITLE], TrustGrid.ai

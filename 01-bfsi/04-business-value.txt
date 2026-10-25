@@ -1,0 +1,25 @@
+Bridging [Company Name]&#8217;s AI compute spend to the CFO balance sheet
+
+  Connect AI compute spend to unit economics and board-ready financial outcomes.
+  
+    
+      
+        
+          
+        
+
+        Hi [First Name],
+
+3&#8211;10&#215; ROIA measurable production targetMeasurable P&L Attribution, Not Vague ROI
+
+AI engineering must be measured by economics, not just model deployment.
+
+AI FinOps ties infrastructure cost to unit economics: what each inference query costs, what workflow value it creates, and where production efficiency improves. This gives finance and technology leaders a shared basis for prioritizing investment.
+
+Ahead of Q4 board reviews, transparent attribution can help identify and offset sunk costs in underperforming cloud vendors with measurable operating evidence.
+
+Verifiable OutcomeReal-time P&L attribution per inference query, mapped directly to your CFO&#8217;s balance sheet.Review Verified Case StudiesOr reply directly to this email to start the conversation.
+
+Best regards,
+[Sender Name]
+[SENDER_TITLE], TrustGrid.ai
